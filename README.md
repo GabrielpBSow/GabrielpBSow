@@ -29,7 +29,7 @@ TensorFlow • Keras • OpenCV • NumPy • Pillow
 * 🎮 [Club de Fantasías](https://github.com/gus001-A/CLUB_2026) — Proyecto en equipo, colaboré en la parte del sistema del Administrador
 * 🚨 [Red Neuronal para Clasificación de Señales de Emergencia](https://github.com/GabrielpBSow/Red_Neuronal_de_Senales_de_Emergencia)
 * 🔬 [Sistema del Verano Científico](https://github.com/AloMV/VeranoCien) — Proyecto en equipo
-* 🎓 [Edutrivia – Plataforma Educativa](https://github.com/GabrielpBSow/Estancia)
+* 🎓 [Edutrivia – Plataforma Educativa](https://github.com/GabrielpBSow/Edutrivia)
 * 🏨 Sistema Gestor del INAM
 
 ## 🎯 Áreas de Interés
