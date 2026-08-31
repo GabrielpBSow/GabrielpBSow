@@ -22,8 +22,25 @@ Apasionado por el desarrollo de software, la resolución de problemas y la creac
 
 ## 🛠️ Tecnologías
 
-PHP • JavaScript • Python • Java • MySQL • HTML • CSS • Git
-TensorFlow • Keras • OpenCV • NumPy • Pillow
+**Lenguajes de Programación**
+* PHP • JavaScript • Python • Java • C (básico) • C++ (básico)
+
+**Desarrollo Web (Frontend & Backend)**
+* **Backend:** PHP, Laravel
+* **Frontend:** HTML5, CSS3, Vue.js
+
+**Bases de Datos**
+* MySQL • MariaDB • MongoDB (básico)
+
+**Desarrollo Móvil**
+* Kotlin • Android Studio • Firebase
+
+**IA & Ciencia de Datos**
+* TensorFlow • Keras • OpenCV • NumPy • Pillow
+
+**Herramientas & Asistentes de IA**
+* **Herramientas:** Git, GitHub
+* **LLMs/AI Assistants:** ChatGPT, Google Gemini, Claude, DeepSeek
 
 ## 🚀 Proyectos Destacados
 
